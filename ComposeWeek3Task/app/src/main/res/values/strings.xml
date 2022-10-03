@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Compose Week 3 Task</string>
+    <string name="hotel1">Oudhyana Resort</string>
+    <string name="hotel2">The Urban Terrace</string>
+    <string name="hotel3">Big Daddy</string>
+    <string name="hotel4">Mubeen’s</string>
+    <string name="h1desc">Pizza,Burger,Sandwich and snacks</string>
+    <string name="h2desc">Taste the brilliance of Indian Thalis</string>
+    <string name="h3desc">Pizza,Burger,Sandwich and snacks</string>
+    <string name="h4desc"></string>
+    <string name="Rating1">5.0</string>
+    <string name="Rating2">4.8</string>
+    <string name="Rating3">4.3</string>
+    <string name="Rating5">4.1</string>
+</resources>
